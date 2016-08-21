@@ -15,3 +15,10 @@ use one instead of another?
 
  You may also want to commit and push your changes. When you're finished, click 
 "Next".
+
+What is the benefit of having a copy of the last known state of the remote 
+stored locally?
+
+ You may also want to commit and push your changes. When you're finished, click 
+"Next" and Caroline will introduce a GitHub feature called a Pull Request that 
+makes collaboration easier.
