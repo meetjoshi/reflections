@@ -26,8 +26,13 @@ makes collaboration easier.
 How would you collaborate without using Git or GitHub? What would be easier, 
 and what would be harder?
 
-You may also want to commit and push your changes. When you're finished, click 
+ You may also want to commit and push your changes. When you're finished, click 
 "Next".
 
+When would you want to make changes in a separate branch rather than directly 
+in master? What benefits does each approach have?
 
+ You may also want to commit and push your changes. When you're finished, click 
+"Next" to put everything you've learned together by contributing to the 
+create-your-own-adventure repository.
 
